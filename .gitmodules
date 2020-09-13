@@ -1,0 +1,6 @@
+[submodule "wfo-scheduler-frontend"]
+	path = wfo-scheduler-frontend
+	url = https://github.com/DDavidkov/wfo-scheduler-frontend.git
+[submodule "wfo-scheduler-backend"]
+	path = wfo-scheduler-backend
+	url = https://github.com/DDavidkov/wfo-scheduler-backend.git
